@@ -10,3 +10,5 @@ How does it work, you ask? The program uses the chat gpt API to generate persona
 But don't worry - this isn't just a mindless bot spamming potential roommates. The program includes built-in safety measures to ensure that messages are sent at appropriate intervals and don't violate any terms of service.
 
 Overall, my program can save you time and increase your chances of securing a room in a shared flat. So why waste any more time constantly refreshing a web page when you can let the bot do the work for you? Try it out for yourself and take the first step towards finding your perfect living arrangement.
+
+PS: This description is ofc written by ChatGPT.
