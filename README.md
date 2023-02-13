@@ -1,4 +1,4 @@
-# WG-gesucht-Bot-w-ChatGPT-
+# WG-gesucht-Bot-w-ChatGPT
 A scraping and messaging bot for wg-gesucht.de. To help find accommodation in the competitive German rental housing market
 
 Are you tired of constantly refreshing wg-gesucht.de in hopes of being the first to message potential roommates? Look no further, because I've built a solution to save you time and increase your chances of securing a room in a shared flat!
